@@ -4,9 +4,13 @@ The notebook explores how ReLU activation functions, commonly used in neural net
 It includes detailed visualizations and code examples to illustrate the concepts.  
 # Example
 The following images show function approximations using multiple stacked ReLUs at different intervals.
-- ![a](./images/1.png) 
-- ![b](./images/2.png)
-- ![c](./images/3.png)
-- ![d](./images/4.png)
+- 
+  ![a](./images/1.png) 
+- 
+  ![b](./images/2.png)
+- 
+  ![c](./images/3.png)
+- 
+  ![d](./images/4.png)
 
 
